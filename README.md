@@ -1,5 +1,6 @@
 
 # Week 12 Challenge E-Commerce Back End
+github repo: https://github.com/AlexanderDuncan1/e_commercebackend
 
 ## Description
 The task was to build the back end for an e-commerce site by configure a working Express.js API to use Sequelize to interact with a MySQL database.
@@ -33,7 +34,7 @@ To create an e_commerse backend
 
 
 ## Screenshots
-![Screenshot](./)
+https://drive.google.com/drive/folders/1mP4ARIB_d8p9HMtP8Dh-FUUpkmMwkvNP?usp=sharing
 
 ## For Questions contact:
 GitHub: [alexanderduncan1](https://github.com/alexanderduncan1)
